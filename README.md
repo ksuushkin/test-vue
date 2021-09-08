@@ -6,4 +6,7 @@ Test project that allows to search movies, using http://www.omdbapi.com/
 
 
 start project with 
+
+```npm i ```
+
 ```npm run dev``` 
